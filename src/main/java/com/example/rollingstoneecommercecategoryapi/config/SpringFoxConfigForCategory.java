@@ -29,5 +29,6 @@ public Docket api(){
             .apiInfo(DEFAULT_API_INFO)
             .produces(DEFAULT_PRODUCES_AND_CONSUMES)
             .consumes(DEFAULT_PRODUCES_AND_CONSUMES);
+
     }
 }
